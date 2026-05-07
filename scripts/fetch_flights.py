@@ -5,7 +5,7 @@ Salva cada aeroporto em data/{ICAO}.json para o GitHub Pages.
 
 Variaveis de ambiente:
   AIRPORTS           -> ICAOs separados por virgula (ex: SBCA,SBGR)
-                        Padrao: SBCA
+                        Padrao: SBCA,SBFI,SBCT
   AVIATIONSTACK_KEY  -> API Key da AviationStack (GitHub Secret)
 
 Plano gratuito: 100 chamadas/mes.
